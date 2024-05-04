@@ -9,8 +9,8 @@
 Welcome to the <tt>jargons.dev</tt> GitHub organization! This organization houses the <tt>jargons.dev</tt> project, an open-source comprehensive dictionary that simplifies software, engineering and general technology jargon.
 
 ## Get Started
-
-- We welcome contributions to <tt>jargons.dev</tt>! If you'd like to contribute, please check out our [Contributing Guide](https://github.com/jargons-dev/jargons.dev/blob/main/CONTRIBUTING.md) for more information.
+We welcome contributions to the <tt>jargons.dev</tt> project!
+- If you'd like to contribute, please check out our [Contributing Guide](https://github.com/jargons-dev/jargons.dev/blob/main/CONTRIBUTING.md) for more information.
 - Please review our [Code of Conduct](https://github.com/jargons-dev/jargons.dev/blob/main/CODE_OF_CONDUCT.md) before participating in this project.
 - This project is licensed under the [GPL-2.0 license](https://github.com/jargons-dev/jargons.dev/blob/main/LICENSE).
 <!--
