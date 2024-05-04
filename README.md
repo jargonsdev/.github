@@ -1,2 +1,2 @@
 # .github
-@jargons-dev organization config repo
+Organization config repo
