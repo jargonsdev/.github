@@ -1,7 +1,7 @@
 <div style="margin-top: 12px">
   <a href="https://www.jargons.dev">
    <!-- https://github.com/babblebey/jargons.dev/assets/25631971/f2adedb8-4324-439a-8663-d3e30fd68416 -->
-   <img alt="jargons.dev" src="https://github.com/devjargons/.github/assets/25631971/8aa851ba-be8f-4ec2-90a2-51b0dbf7e77b">
+   <img alt="jargons.dev" src="https://github.com/devjargons/.github/assets/25631971/ee68bae7-46a5-4aa1-b2e6-034089fc6dda">
   </a>
 
   <h1><tt>jargons.dev</tt></h1>
