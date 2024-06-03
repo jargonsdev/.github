@@ -7,7 +7,7 @@
   <h1><tt>jargons.dev</tt></h1>
 </div>
 
-Welcome to the <tt>jargons.dev</tt> GitHub organization! This organization houses the <tt>jargons.dev</tt> project, an open-source comprehensive dictionary that simplifies software, engineering and general technology jargon.
+Welcome to the <tt>jargons.dev</tt> GitHub organization! This organization houses the <tt>jargons.dev</tt>- an open-source comprehensive dictionary that simplifies software, engineering and general technology jargon; and its related projects.
 
 ## Get Started
 We welcome contributions to the <tt>jargons.dev</tt> project!
